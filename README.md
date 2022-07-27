@@ -1,1 +1,1 @@
-# RichestCustomer_assessment
+# This is for the git assessment project
