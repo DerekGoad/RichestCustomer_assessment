@@ -69,18 +69,3 @@ print(f'the {make_ordinal(richest_customer_i+1)} customer is the richest with a 
 
 input('press enter to exit... ')
 quit()
-
-
-#----------------------------------------------------------------------------------------------------
-#    this is for the questions in the assessment 
-
-#    1.    What is the difference between rebasing and merging in source control?
-#    Rebasing and Merging server very similar purposes, they both contribute to the brances in the project
-#    Rebasing makes commits easier to track by rewinding the main branch pulling from main and adding the commits together
-#    Merging is simple only requiring the commit changes to be added to the main branch, typically harder to track changes, more interwoven
-
-#    2.    How do you approach solving merge conflicts? 
-#    This is something that has to be done manually, there are tools (like git diff / difftool) that will give   
-#    a visual comparison to aid in deciding which commit shall win over the other, 
-#    This is at the discretion of the developer reviewing the conflict.The file will need to be manually edited/reviewed then committed
-#----------------------------------------------------------------------------------------------------
