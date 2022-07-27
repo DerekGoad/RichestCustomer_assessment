@@ -1,2 +1,2 @@
-# This is for the git assessment project
+# **git assessment**
 > just some simple python code
